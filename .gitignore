@@ -96,6 +96,7 @@ logs
 results
 node_modules
 .node_history
+packag-lock.json
 
 ############################
 # Package managers
@@ -110,6 +111,7 @@ node_modules
 !.yarn/versions
 .pnp.*
 yarn-error.log
+yarn.lock
 
 ############################
 # Tests
