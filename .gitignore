@@ -96,7 +96,7 @@ logs
 results
 node_modules
 .node_history
-packag-lock.json
+package-lock.json
 
 ############################
 # Package managers
